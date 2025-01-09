@@ -9,7 +9,7 @@ El desarrollo del proyecto se llevó a cabo utilizando HTML y CSS.
 Uso especifico para esta GRID
 
 ## Despliegue
-El proyecto está desplegado y accesible en la siguiente URL: [Página Principal](https://www.ejemplo.com) (no esta terminado asi que pongo de ejmplo un link de ejemplo)
+- Página del proyecto en GitHub: [MaquetacionGRID_Practica01](https://github.com/ChristianRodrSanch/MaquetacionGRID_Practica01/tree/main)
 
 ## Construido con
 - [HTML]
@@ -25,6 +25,6 @@ El proyecto está desplegado y accesible en la siguiente URL: [Página Principal
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.md) para más detalles.
 
-## Recursos Adicionales
-- Página del proyecto en GitHub: [MaquetacionGRID_Practica01](https://github.com/ChristianRodrSanch/MaquetacionGRID_Practica01/tree/main)
+
+
 
